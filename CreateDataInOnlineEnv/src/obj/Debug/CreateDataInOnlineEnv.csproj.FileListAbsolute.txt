@@ -1,0 +1,9 @@
+c:\createDataRepo\CreateData\CreateDataInOnlineEnv\Binaries\CommonScenarioTests.exe.config
+c:\createDataRepo\CreateData\CreateDataInOnlineEnv\Binaries\CommonScenarioTests.exe
+c:\createDataRepo\CreateData\CreateDataInOnlineEnv\Binaries\CommonScenarioTests.pdb
+c:\createDataRepo\CreateData\CreateDataInOnlineEnv\src\obj\Debug\CreateDataInOnlineEnv.csprojResolveAssemblyReference.cache
+c:\createDataRepo\CreateData\CreateDataInOnlineEnv\src\obj\Debug\CommonScenarioTests.exe
+c:\createDataRepo\CreateData\CreateDataInOnlineEnv\src\obj\Debug\CommonScenarioTests.pdb
+c:\createDataRepo\CreateData\CreateDataInOnlineEnv\src\obj\Debug\CommonScenarioTests.exe.config
+c:\createDataRepo\CreateData\CreateDataInOnlineEnv\src\obj\Debug\CreateDataInOnlineEnv.csproj.CoreCompileInputs.cache
+c:\createDataRepo\CreateData\CreateDataInOnlineEnv\src\obj\Debug\CreateDataInOnlineEnv.csproj.CopyComplete

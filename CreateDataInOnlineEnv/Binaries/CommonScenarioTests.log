@@ -1,0 +1,28 @@
+----[Start "c:\createDataRepo\CreateData\CreateDataInOnlineEnv\Binaries\CommonScenarioTests.exe" , Test count 1]----
+
+----[Start CommonScenarioTests.Sales.VerifyNewAccountContactCreate]----
+
+Comment [7/24/2018 11:34:08 AM]: [1] Running test in CommonScenarioTests domain.
+Comment [7/24/2018 11:34:09 AM]: [5] Setting TestBase.TestMethodName as "VerifyNewAccountContactCreate"
+Comment [7/24/2018 11:34:16 AM]: [5] Seed is being set to:1662077785
+Comment [7/24/2018 11:34:19 AM]: [5] Platform None, browser Chrome, Device Host Machine , Device Host User , Device Host Password , Device Id , Device Name , Device OS .
+Comment [7/24/2018 11:34:19 AM]: [5] Context bc4c3631-a7ff-4f07-8e4f-0655aeeee284 Instantiated TestClientMode:WebApp
+Comment [7/24/2018 11:34:19 AM]: [5] Platform None, browser Chrome, Device Host Machine , Device Host User , Device Host Password , Device Id , Device Name , Device OS .
+Comment [7/24/2018 11:34:19 AM]: [5] Context 033d8e30-3572-4555-90a8-8dc8a2f28ceb Instantiated TestClientMode:WebApp
+Comment [7/24/2018 11:34:19 AM]: [5] Using Selenium Automation driver.
+Comment [7/24/2018 11:34:19 AM]: [5] [Desktop.Initialize] WindowsDesktop initialized successfully.
+Comment [7/24/2018 11:34:19 AM]: [5] Context 0f7fbf50-5f1c-4047-97e4-02479f77c20f Instantiated TestClientMode:WebApp
+Comment [7/24/2018 11:34:19 AM]: [5] Proxy dae37a4f-4da1-47d0-b253-0877b78d5f38 Instantiated
+Comment [7/24/2018 11:34:22 AM]: [5] [SecurityTokenManager] Fetching Security Token from Cache for crmadmin@SG441Tenant194.ccsctp.net
+Comment [7/24/2018 11:34:22 AM]: [5] Creating configuration for https://disco.crm2.crmlivetie.com/XRMServices/2011/Discovery.svc
+Comment [7/24/2018 11:34:38 AM]: [5] Creating configuration for https://disco.crm2.crmlivetie.com/XRMServices/2011/Discovery.svc took 15.0300971 seconds
+Comment [7/24/2018 11:34:38 AM]: [5] [SecurityTokenManager] Fetching Security Token from Cache for crmadmin@SG441Tenant194.ccsctp.net
+Comment [7/24/2018 11:34:38 AM]: [5] [SecurityTokenManager] Retrieving Security Token
+Comment [7/24/2018 11:34:38 AM]: [5] [SecurityTokenManager] Authenticating User "crmadmin@SG441Tenant194.ccsctp.net"
+Comment [7/24/2018 11:34:40 AM]: [5] [AssemblyLocator] Ignoring XML Serializer "Microsoft.Xrm.Sdk.XmlSerializers.dll"
+Comment [7/24/2018 11:34:44 AM]: [5] [SecurityTokenManager] Authenticated User "" (6.8675097s Elapsed)
+Comment [7/24/2018 11:34:44 AM]: [5] [SecurityTokenManager] Generated SecurityToken for user crmadmin@SG441Tenant194.ccsctp.net, expiring at Tue, 24 Jul 2018 13:59:43 GMT
+Comment [7/24/2018 11:34:44 AM]: [5] Configuring Online 2011 OnlineFederationOrgId OrganizationService Proxy for Organization "sg441cshti2org194" with user "crmadmin@SG441Tenant194.ccsctp.net" in environment "INT"
+Comment [7/24/2018 11:34:44 AM]: [5] Attempting to generate web service - Attempt 1
+Comment [7/24/2018 11:34:44 AM]: [5] [SecurityTokenManager] Fetching Security Token from Cache for crmadmin@SG441Tenant194.ccsctp.net
+Comment [7/24/2018 11:34:44 AM]: [5] [SecurityTokenManager] SecurityToken for user crmadmin@SG441Tenant194.ccsctp.net, expiring at Tue, 24 Jul 2018 13:59:43 GMT, was found in cache
